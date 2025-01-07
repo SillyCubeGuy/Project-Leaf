@@ -1,0 +1,32 @@
+{
+    "name": "Project Leaf",
+    "short_name": "SOUL",
+    "icons": [
+      {
+        "src": "",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "##000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "description": "Project Leaf Base",
+    "start_url": "/ProjectLeaf.html",
+    "dir": "ltr",
+    "lang": "en",
+    "orientation": "portrait",
+    "categories": [
+      "diary"
+    ]
+  }
